@@ -8,6 +8,8 @@
 
 ~~（类似于将一般的文件夹编译为可被read the docs读取的文件夹）~~
 
+[readthedocs入门](https://blog.csdn.net/lu_embedded/article/details/109006380)
+
 现在只考虑了三种文件情况：文件夹，markdown文件，非markdown非文件夹文件，将这三种文件按照规则分别写在rst文件内部
 
 ### 主代码

@@ -11,7 +11,7 @@ class Pointer(object):
         self.workRoot = workRoute
         self.webRoute = 'https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02'  # 网页地址的根地址
 
-    def jumpTo(self, subRoute: str):
+    def jumpTo(self, subRoute: str):  # 指针向下跳转
         x = dirTools.ToolBags.ls(self.dirRoute)
         if subRoute not in x:
             print("INFO::路径{}下没有{}文件,拒绝跳转".format(self.dirRoute, subRoute))
@@ -21,7 +21,7 @@ class Pointer(object):
             self.workRoute += ('/' + subRoute)
 
     def jumpBack(self):
-        if '/' not in self.dirRoute:
+        if '/' not in self.dirRoute:  # 指针向上跳转
             print("现在的文件路径为:{} 无法再返回".format(self.dirRoute))
         else:
             x = self.dirRoute.split('/')
@@ -49,7 +49,7 @@ class Pointer(object):
             self.webRoute = routeNew
 
 
-def WorkDir(pointer: Pointer):
+def WorkDir(pointer: Pointer):  # 生成当前pointer指向文件夹对应的文件夹
     if str(pointer.dirRoute).split('/')[-1] != 'PPSUC-NSLES':
         xx = str(pointer.dirRoute).split('/')[-1]
     else:
@@ -79,7 +79,7 @@ def WorkDir(pointer: Pointer):
     ENGINE.writeRST(markdown_list, folder_list, none_folder_dict, xx)
 
 
-def Work(workRoute, dirRoute):
+def Work(workRoute, dirRoute):  # 生成指定文件夹的对应的文件夹
     WorkDir(Pointer(workRoute, dirRoute))
 
 
