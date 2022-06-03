@@ -1,0 +1,17 @@
+SJTU期末
+======================================
+
+.. toctree::
+   :maxdepth: 4
+   :caption: List:
+
+
+
+* *高数A类_第2学期_期末_2018-2019学年_自编参考答案.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高数A类_第2学期_期末_2018-2019学年_自编参考答案.pdf**
+* *高数A类_第2学期_期末_2016-2017学年_自编参考答案.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高数A类_第2学期_期末_2016-2017学年_自编参考答案.pdf**
+* *高等数学证明题解题方法与技巧_13467556.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高等数学证明题解题方法与技巧_13467556.pdf**
+* *高数A类_第2学期_期末_2016-2017学年.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高数A类_第2学期_期末_2016-2017学年.pdf**
+* *高等数学解题方法与技巧  上海交通大学数学系_12713711.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高等数学解题方法与技巧  上海交通大学数学系_12713711.pdf**
+* *2017-2末 高数试卷(A类).pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/2017-2末 高数试卷(A类).pdf**
+* *高数A类_第2学期_期末_2017-2018学年_自编参考答案.pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/高数A类_第2学期_期末_2017-2018学年_自编参考答案.pdf**
+* *2018-2末 高数试卷(A类).pdf* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/高等数学2/其它资料/SJTU期末/2018-2末 高数试卷(A类).pdf**

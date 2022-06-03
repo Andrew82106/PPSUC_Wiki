@@ -1,5 +1,5 @@
 import os
-
+import shutil
 
 class ToolBags:
 
@@ -34,7 +34,25 @@ class ToolBags:
         x = os.listdir(path)
         return x
 
+    @staticmethod
+    def is_dir(Route):
+        return os.path.isdir(Route)
+
+    @staticmethod
+    def copyfile(srcfile, dstpath):  # 复制函数
+        # srcfile 需要复制、移动的文件
+        # dstpath 目的地址
+        if not os.path.isfile(srcfile):
+            print("%s not exist!" % (srcfile))
+        else:
+            fpath, fname = os.path.split(srcfile)  # 分离文件名和路径
+            if not os.path.exists(dstpath):
+                os.makedirs(dstpath)  # 创建路径
+            shutil.copy(srcfile, dstpath + fname)  # 复制文件
+            print("copy %s -> %s" % (srcfile, dstpath + fname))
+
 
 if __name__ == '__main__':
     a = ToolBags
-    print(a.ls("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx"))
+    # print(a.ls("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx"))
+    # print(a.is_dir("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/mkRST.py"))
