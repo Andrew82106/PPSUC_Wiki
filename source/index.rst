@@ -13,3 +13,8 @@ Welcome to PPUSC_Wiki's documentation!
    about
    dir1/index
    dir2/index
+
+
+* 链接文本1 http://www.baidu.com/
+* 链接文本2 http://www.baidu.com/
+* 链接文本3 http://www.baidu.com/
