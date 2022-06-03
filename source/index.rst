@@ -7,14 +7,9 @@ Welcome to PPUSC_Wiki's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 4
+   :caption: 目录:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   about
+   dir1/index
+   dir2/index
