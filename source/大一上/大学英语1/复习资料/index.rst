@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    B2U4/index
    B2U2/index

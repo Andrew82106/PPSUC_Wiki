@@ -3,37 +3,37 @@ Motion
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
 
 
-* *Missile2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Missile2.wav**
-* *Razor2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Razor2.wav**
-* *Fall.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Fall.wav**
-* *Razor1.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Razor1.wav**
-* *Move.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Move.wav**
-* *Item3.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item3.wav**
-* *Jump.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump.wav**
-* *bomb.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/bomb.wav**
-* *Item2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item2.wav**
-* *Die_3 long.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_3 long.wav**
-* *Item4.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item4.wav**
-* *Missile.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Missile.wav**
-* *Computer_search.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Computer_search.wav**
-* *Warning_Loop1.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Warning_Loop1.wav**
-* *Warning_Loop2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Warning_Loop2.wav**
-* *Explosion.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Explosion.wav**
-* *Jump2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump2.wav**
-* *Computer_search2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Computer_search2.wav**
-* *Jump3.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump3.wav**
-* *Attack2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Attack2.wav**
-* *Digital_Sword.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Digital_Sword.wav**
-* *Attack.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Attack.wav**
-* *Die_2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_2.wav**
-* *Item.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item.wav**
-* *Jump4.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump4.wav**
-* *Ring1.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Ring1.wav**
-* *Jump5.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump5.wav**
-* *Die_3.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_3.wav**
-* *Die_1.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_1.wav**
-* *Ring2.wav* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Ring2.wav**
+* `Missile2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Missile2.wav>`_
+* `Razor2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Razor2.wav>`_
+* `Fall.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Fall.wav>`_
+* `Razor1.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Razor1.wav>`_
+* `Move.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Move.wav>`_
+* `Item3.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item3.wav>`_
+* `Jump.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump.wav>`_
+* `bomb.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/bomb.wav>`_
+* `Item2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item2.wav>`_
+* `Die_3 long.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_3 long.wav>`_
+* `Item4.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item4.wav>`_
+* `Missile.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Missile.wav>`_
+* `Computer_search.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Computer_search.wav>`_
+* `Warning_Loop1.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Warning_Loop1.wav>`_
+* `Warning_Loop2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Warning_Loop2.wav>`_
+* `Explosion.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Explosion.wav>`_
+* `Jump2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump2.wav>`_
+* `Computer_search2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Computer_search2.wav>`_
+* `Jump3.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump3.wav>`_
+* `Attack2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Attack2.wav>`_
+* `Digital_Sword.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Digital_Sword.wav>`_
+* `Attack.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Attack.wav>`_
+* `Die_2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_2.wav>`_
+* `Item.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Item.wav>`_
+* `Jump4.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump4.wav>`_
+* `Ring1.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Ring1.wav>`_
+* `Jump5.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Jump5.wav>`_
+* `Die_3.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_3.wav>`_
+* `Die_1.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Die_1.wav>`_
+* `Ring2.wavgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/HW/Game-DragonDash/project/res/soundeffect/Motion/Ring2.wav>`_

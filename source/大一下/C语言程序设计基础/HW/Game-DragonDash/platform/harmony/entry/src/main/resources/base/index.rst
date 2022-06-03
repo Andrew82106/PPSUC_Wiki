@@ -3,7 +3,7 @@ base
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    layout/index
    element/index

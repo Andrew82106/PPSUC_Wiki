@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    物理题库/index
 

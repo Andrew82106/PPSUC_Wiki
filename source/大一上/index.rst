@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    大学英语1/index
    高等数学1/index

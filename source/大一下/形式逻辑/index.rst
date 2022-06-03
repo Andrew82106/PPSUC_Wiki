@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    题库/index
    艳姐形式逻辑课件（PDF黑白）/index

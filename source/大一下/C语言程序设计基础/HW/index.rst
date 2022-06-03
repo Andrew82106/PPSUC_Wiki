@@ -3,7 +3,7 @@ HW
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    重复的力量/index
    重复的力量2/index

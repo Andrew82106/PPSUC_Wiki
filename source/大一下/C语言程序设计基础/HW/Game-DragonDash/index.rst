@@ -3,8 +3,9 @@ Game-DragonDash
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
+   README
    supports/index
    core/index
    platform/index
@@ -12,6 +13,5 @@ Game-DragonDash
    architecture/index
    .vscode/index
    kernel/index
-   README
 
 

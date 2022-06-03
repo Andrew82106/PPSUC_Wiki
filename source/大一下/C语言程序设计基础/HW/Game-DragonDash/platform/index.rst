@@ -3,7 +3,7 @@ platform
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    macos/index
    harmony/index

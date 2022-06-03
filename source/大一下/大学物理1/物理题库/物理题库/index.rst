@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    1.质点/index
    12.相对论/index

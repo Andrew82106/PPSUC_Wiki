@@ -3,7 +3,7 @@ background
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    day/index
    night/index

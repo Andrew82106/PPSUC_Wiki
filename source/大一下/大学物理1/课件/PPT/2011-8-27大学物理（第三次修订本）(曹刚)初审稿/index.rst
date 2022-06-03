@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    第2章 牛顿运动三定律/index
    第14章 狭义相对论力学基础/index
@@ -24,4 +24,4 @@
    第8章 电磁感应与电磁场/index
 
 
-* *大学物理（第三次修订本）电子教案.ppt* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/大学物理（第三次修订本）电子教案.ppt**
+* `大学物理（第三次修订本）电子教案.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/大学物理（第三次修订本）电子教案.ppt>`_

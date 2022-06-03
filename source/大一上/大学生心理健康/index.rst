@@ -3,10 +3,10 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
+   README
    HW/index
    复习资料/index
-   README
 
 

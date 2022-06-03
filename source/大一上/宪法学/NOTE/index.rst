@@ -3,9 +3,9 @@ NOTE
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
-   WHITE/index
    README
+   WHITE/index
 
 

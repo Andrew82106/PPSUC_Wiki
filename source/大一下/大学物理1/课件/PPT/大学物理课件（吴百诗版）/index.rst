@@ -3,7 +3,7 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    第16章原子核物理和粒子物理简介/index
    第5章 刚体力学基础 动量矩/index

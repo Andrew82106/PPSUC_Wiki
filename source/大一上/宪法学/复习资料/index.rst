@@ -3,14 +3,14 @@
 
 .. toctree::
    :maxdepth: 4
-   :caption: List:
+   :caption: PPSUC_Wiki:
 
    宪法PPT/index
 
 
-* *宪法学重点知识解析.docx* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点知识解析.docx**
-* *宪法学重点内容.docx* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点内容.docx**
-* *“公民基本权利和义务”知识点总结.docx* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/“公民基本权利和义务”知识点总结.docx**
-* *宪法.docx* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法.docx**
-* *国家机构知识点总结.docx* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/国家机构知识点总结.docx**
-* *宪法学重点内容.doc* gitHub Link: **https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点内容.doc**
+* `宪法学重点知识解析.docxgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点知识解析.docx>`_
+* `宪法学重点内容.docxgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点内容.docx>`_
+* `“公民基本权利和义务”知识点总结.docxgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/“公民基本权利和义务”知识点总结.docx>`_
+* `宪法.docxgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法.docx>`_
+* `国家机构知识点总结.docxgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/国家机构知识点总结.docx>`_
+* `宪法学重点内容.docgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/宪法学/复习资料/宪法学重点内容.doc>`_
