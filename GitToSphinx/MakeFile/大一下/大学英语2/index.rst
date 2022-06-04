@@ -5,9 +5,9 @@
    :maxdepth: 4
    :caption: PPSUC_Wiki:
 
-   HW/index
    其它资料/index
-   EXAM/index
+   考试/index
+   作业/index
    课件/index
 
 

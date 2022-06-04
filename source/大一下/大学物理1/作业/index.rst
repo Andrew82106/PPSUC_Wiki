@@ -1,0 +1,10 @@
+作业
+======================================
+
+.. toctree::
+   :maxdepth: 4
+   :caption: PPSUC_Wiki:
+
+   2022/index
+
+

@@ -6,9 +6,9 @@
    :caption: PPSUC_Wiki:
 
    README
-   NOTE/index
-   HW/index
+   笔记/index
+   考试/index
    复习资料/index
-   EXAM/index
+   作业/index
 
 

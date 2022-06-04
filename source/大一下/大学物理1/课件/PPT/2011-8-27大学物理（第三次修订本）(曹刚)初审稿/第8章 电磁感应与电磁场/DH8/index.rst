@@ -7,7 +7,7 @@ DH8
 
 
 
-* `电磁感应现象.gifgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/电磁感应现象.gif>`_
-* `说明.txtgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/说明.txt>`_
-* `DCGYXX1.SWFgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/DCGYXX1.SWF>`_
-* `DCGYXX2.SWFgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/DCGYXX2.SWF>`_
+* `电磁感应现象.gif [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/电磁感应现象.gif>`_
+* `说明.txt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/说明.txt>`_
+* `DCGYXX1.SWF [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/DCGYXX1.SWF>`_
+* `DCGYXX2.SWF [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第8章 电磁感应与电磁场/DH8/DCGYXX2.SWF>`_

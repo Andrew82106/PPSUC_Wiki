@@ -24,4 +24,4 @@
    第8章 电磁感应与电磁场/index
 
 
-* `大学物理（第三次修订本）电子教案.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/大学物理（第三次修订本）电子教案.ppt>`_
+* `大学物理（第三次修订本）电子教案.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/大学物理（第三次修订本）电子教案.ppt>`_

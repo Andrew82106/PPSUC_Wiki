@@ -8,10 +8,10 @@
    DH7/index
 
 
-* `7.3 磁场中的高斯定理.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.3 磁场中的高斯定理.ppt>`_
-* `7.7 磁介质.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.7 磁介质.ppt>`_
-* `7.1 磁现象及其本质.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.1 磁现象及其本质.ppt>`_
-* `7.6 带电粒子在磁场中的运动.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.6 带电粒子在磁场中的运动.ppt>`_
-* `7.5 磁场对对电流的作用.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.5 磁场对对电流的作用.ppt>`_
-* `7.4 安培环路定理.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.4 安培环路定理.ppt>`_
-* `7.2 毕萨定理.pptgitHub Link <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.2 毕萨定理.ppt>`_
+* `7.3 磁场中的高斯定理.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.3 磁场中的高斯定理.ppt>`_
+* `7.7 磁介质.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.7 磁介质.ppt>`_
+* `7.1 磁现象及其本质.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.1 磁现象及其本质.ppt>`_
+* `7.6 带电粒子在磁场中的运动.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.6 带电粒子在磁场中的运动.ppt>`_
+* `7.5 磁场对对电流的作用.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.5 磁场对对电流的作用.ppt>`_
+* `7.4 安培环路定理.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.4 安培环路定理.ppt>`_
+* `7.2 毕萨定理.ppt [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/大学物理1/课件/PPT/2011-8-27大学物理（第三次修订本）(曹刚)初审稿/第7章 恒定电流的磁场/7.2 毕萨定理.ppt>`_

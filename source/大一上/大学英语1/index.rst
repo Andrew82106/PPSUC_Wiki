@@ -6,7 +6,7 @@
    :caption: PPSUC_Wiki:
 
    README
+   考试/index
    复习资料/index
-   EXAM/index
 
 
