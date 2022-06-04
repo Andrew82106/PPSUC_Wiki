@@ -2,7 +2,7 @@ PPT
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
    2011-8-27大学物理（第三次修订本）(曹刚)初审稿/index

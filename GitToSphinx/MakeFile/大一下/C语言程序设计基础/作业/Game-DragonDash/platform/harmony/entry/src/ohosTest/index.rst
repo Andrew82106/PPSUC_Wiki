@@ -2,7 +2,7 @@ ohosTest
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
    java/index

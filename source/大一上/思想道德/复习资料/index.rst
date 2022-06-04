@@ -2,9 +2,9 @@
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
 
 
-* `思政备考.docx [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/思想道德/复习资料/思政备考.docx>`_
+* `思政备考.docx [gitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一上/思想道德/复习资料/思政备考.docx>`_

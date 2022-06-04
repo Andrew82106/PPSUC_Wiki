@@ -2,9 +2,9 @@ slice
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
 
 
-* `MainAbilitySlice.java [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/作业/Game-DragonDash/platform/harmony/entry/src/main/java/com/PE/demo/slice/MainAbilitySlice.java>`_
+* `MainAbilitySlice.java [gitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/C语言程序设计基础/作业/Game-DragonDash/platform/harmony/entry/src/main/java/com/PE/demo/slice/MainAbilitySlice.java>`_

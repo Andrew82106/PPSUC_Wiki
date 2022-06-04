@@ -32,11 +32,11 @@ class RST_MAKER(object):
     def __init__(self, Route: str):
         self.Route = Route
 
-    def writeRST(self, markdown_list: list, folder_list: list, none_folder_dict: dict, headers: str):
+    def writeRST(self, markdown_list: list, folder_list: list, none_folder_dict: dict, headers: str, layer: int):
         # markdown_list:markdown文档的名字，folder_list文件夹的名字，none_folder_dict：非文件夹文档的名字和链接
         f = open(self.Route + '/index.rst', 'w', encoding='utf-8')
         f.write("{}\n======================================\n\n".format(headers))
-        f.write(".. toctree::\n   :maxdepth: 4\n   :caption: PPSUC_Wiki:\n\n")
+        f.write(".. toctree::\n   :maxdepth: {}\n   :caption: PPSUC_Wiki:\n\n".format(layer))
         for i in markdown_list:  # 输出markdown文件
             f.write("   {}\n".format(i))
         for i in folder_list:  # 输出文件夹
@@ -44,7 +44,8 @@ class RST_MAKER(object):
         f.write("\n\n")
         #  rst链接格式：`Link text <http://www.baidu.com/>`_
         for i in none_folder_dict:  # 输出链接
-            f.write("* `{} [gitHub Link] <{}>`_\n".format(i, none_folder_dict[i]))
+            xx = str(none_folder_dict[i]).replace(' ', "%20")
+            f.write("* `{} [GitHub Link] <{}>`_\n".format(i, xx))
         f.close()
 
 

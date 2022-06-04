@@ -2,10 +2,10 @@
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
    README
 
 
-* `心理期末复习.doc [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一上/大学生心理健康/复习资料/心理期末复习.doc>`_
+* `心理期末复习.doc [gitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一上/大学生心理健康/复习资料/心理期末复习.doc>`_

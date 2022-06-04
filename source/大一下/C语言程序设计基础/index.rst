@@ -2,7 +2,7 @@ C语言程序设计基础
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
    C语言复习/index

@@ -2,10 +2,10 @@
 ======================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: PPSUC_Wiki:
 
 
 
-* `Microsoft Visual C++2010学习版使用指南.docx [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/其它资料/Microsoft Visual C++2010学习版使用指南.docx>`_
-* `C Primer Plus 第6版 中文版.pdf [gitHub Link] <https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02/大一下/C语言程序设计基础/其它资料/C Primer Plus 第6版 中文版.pdf>`_
+* `Microsoft Visual C++2010学习版使用指南.docx [gitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/C语言程序设计基础/其它资料/Microsoft%20Visual%20C++2010学习版使用指南.docx>`_
+* `C Primer Plus 第6版 中文版.pdf [gitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/C语言程序设计基础/其它资料/C%20Primer%20Plus%20第6版%20中文版.pdf>`_

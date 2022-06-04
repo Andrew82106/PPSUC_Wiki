@@ -9,7 +9,7 @@ class Pointer(object):
         self.dirRoute = dirRoute  # 将要转换的文件的根地址（以这个为主调动其他的指针转换）
         self.workRoute = workRoute  # 转换后的文件生成的目标地址的根地址
         self.workRoot = workRoute
-        self.webRoute = 'https://github.com/ChrisWhite1024/PPSUC-NSLE/tree/22-01-02'  # 网页地址的根地址
+        self.webRoute = 'https://github.com/Andrew82106/PPSUC-NSLES/tree/22-05-31'  # 网页地址的根地址
 
     def jumpTo(self, subRoute: str):  # 指针向下跳转
         x = dirTools.ToolBags.ls(self.dirRoute)
@@ -50,10 +50,12 @@ class Pointer(object):
 
 
 def WorkDir(pointer: Pointer):  # 生成当前pointer指向文件夹对应的文件夹
+    layer = 2
     if str(pointer.dirRoute).split('/')[-1] != 'PPSUC-NSLES':
         xx = str(pointer.dirRoute).split('/')[-1]
     else:
         xx = header_all
+        layer = 1
     sonRoute = dirTools.ToolBags.ls(pointer.dirRoute)
     markdown_list = []
     folder_list = []
@@ -74,9 +76,10 @@ def WorkDir(pointer: Pointer):  # 生成当前pointer指向文件夹对应的文
             # markdown
         else:
             none_folder_dict[name] = pointer.webRoute + '/' + name
+            none_folder_dict[name] = none_folder_dict[name].replace('tree', 'blob')  # 原来文件下载链接和层级的链接是不一样的。。。
             # others
     ENGINE = mkRST.RST_MAKER(pointer.workRoute)
-    ENGINE.writeRST(markdown_list, folder_list, none_folder_dict, xx)
+    ENGINE.writeRST(markdown_list, folder_list, none_folder_dict, xx, layer)
 
 
 def Work(workRoute, dirRoute):  # 生成指定文件夹的对应的文件夹
