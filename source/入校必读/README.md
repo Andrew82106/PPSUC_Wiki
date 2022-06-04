@@ -8,10 +8,6 @@ Email：chriswhite33333@gmail.com
 
 ---
 
-[toc]
-
----
-
 ## 学院和专业
 
 | 学院             | 专业                           | 专业代号 |
@@ -24,6 +20,7 @@ Email：chriswhite33333@gmail.com
 |                  | 公安情报学                     | H        |
 |                  | 国家安全保卫（和新专业重合？） | R        |
 | 法学院           | 治安学（警察法学方向）         | A        |
+|                  | 法学                           | 无代号   |
 | 交通管理学院     | 交通管理工程                   | F        |
 | 公安管理学院     | 公安管理学                     | K        |
 |                  | 公安政治工作（新专业）         | R        |
@@ -95,8 +92,6 @@ Email：chriswhite33333@gmail.com
 **五育并举往年也称综合素质测评（简称综测）**
 
 五育并举是入党、奖学金和区队干部评选（21级五育并举区队排名前30%才有资格担任学生干部）的重要评价标准，从德、智、体、美、劳多个方面对学生进行综合评价，与保研无直接关系，从21级开始对综合素质评价进行了大刀阔斧的改革，取消了各种主观因素，包括队长互评、同学互评等项目，同时各种社团干部、区队干部的加分均被取消，学习成绩和科研的比重再一次放大，尽管在实施上仍存在诸多问题，但是大方向是正确的，详情可见[五育并举人才培养综合评价实施细则](http://1.116.123.133:8888/down/zcsgxIewlbg7)
-
-### 警务化对学习的影响
 
 ### 警英班选拔
 
@@ -381,19 +376,32 @@ PS：21级只要在9月7日分级考试达到50分（满分100）以上即可参
 
 1. VR全景地图（微信）
 
-   ![](http://mmbiz.qpic.cn/mmbiz_png/llvMib9lXpSjOSk48I6XpWicYIfibicgcBmXp22X1pbGlNDBQ9KttQIZibOIpAeiahrAMKwFd5lzztM254YMaeQ87MYg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1#pic_right)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/70ee61ed802b0.png" width = "50%" height = "50%" alt="图片名称" align=center />
+   </div>
 
 2. 鸟瞰图（团河校区）
    
-   ![](https://mmbiz.qpic.cn/mmbiz_jpg/llvMib9lXpSgiamicMr0qgy0wiaJC70IzS1rzJX8JdeI93kR4LhB1jnXrDsUxTPyoZ4PgVAic3TfmSpNn4icAYr0Kc6g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/2e75707af5b36.jpg" width = "100%" height = "100%" alt="图片名称" align=center />
+   </div>
 
 3. 卫星图（团河校区）
    
-   ![](https://mmbiz.qpic.cn/sz_mmbiz_png/NQFCdHllv4eewxXo8s1JvyqtGkSuEFSBk0lbTcXpibCAZRR0ibz54B2EJyFTrjJxGxXeYiajVLbibUYVENFaHeGnRQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/6199293c9a66b.png" width = "100%" height = "100%" alt="图片名称" align=center />
+   </div>
 
 ### 学校各场所开放时间表
 
-   ![](https://mmbiz.qpic.cn/sz_mmbiz_png/NQFCdHllv4eewxXo8s1JvyqtGkSuEFSBpUId8OuqzX6x8UtjpNIM0ZSF90RO4QmibPHRC3Wib5swcyOzdkSZSWKg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/7bac22727332d.png" width = "50%" height = "50%" alt="图片名称" align=center />
+   </div>
 
 ### 成绩查询页面截图
+
+   感谢TSQ同学友情赞助
+
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/99d6a20f5e3c6.jpg" width = "50%" height = "50%" alt="图片名称" align=center />
+   </div>
