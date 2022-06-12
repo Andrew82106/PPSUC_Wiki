@@ -1,3 +1,26 @@
+<style>
+.heimu, .heimu a, a .heimu, .heimu a.new {
+ background-color: #252525;
+ color: #252525;
+ text-shadow: none;
+}
+
+.heimu:hover, .heimu:active,
+ .heimu:hover .heimu, .heimu:active .heimu {
+ color: white !important;
+}
+
+.heimu:hover a, a:hover .heimu,
+ .heimu:active a, a:active .heimu {
+ color: lightblue !important;
+}
+
+.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
+ .heimu:active .new, .heimu .new:active, .new:active .heimu {
+ color: #BA0000 !important;
+}
+</style>
+
 # RE：从零开始的公大生活
 
 **Author：Albert**
@@ -20,7 +43,7 @@ Email：chriswhite33333@gmail.com
 |                  | 公安情报学                     | H        |
 |                  | 国家安全保卫（和新专业重合？） | R        |
 | 法学院           | 治安学（警察法学方向）         | A        |
-|                  | 法学                           | 无代号   |
+|                  | 法学                           | A（铁制胸牌）   |
 | 交通管理学院     | 交通管理工程                   | F        |
 | 公安管理学院     | 公安管理学                     | K        |
 |                  | 公安政治工作（新专业）         | R        |
@@ -59,6 +82,75 @@ Email：chriswhite33333@gmail.com
 ---
 
 ## 军训
+
+<span class="heimu">
+这里什么都没有
+</span>
+
+<br/>
+
+<span class="heimu">
+什么都没有
+</span>
+
+
+<br/>
+
+<span class="heimu">
+真的什么都没有
+</span>
+
+<br/>
+
+<span class="heimu">
+什么东西都没有哦
+</span>
+
+<br/>
+
+<span class="heimu">
+你以为继续往下看我就会告诉你吗
+</span>
+
+<br/>
+
+<span class="heimu">
+怎么可能
+</span>
+
+<br/>
+
+<span class="heimu">
+笨蛋，才、才不会告诉你公大军训的内容呢
+</span>
+
+<br/>
+
+<span class="heimu">
+除非你...你请我吃饭
+</span>
+
+<br/>
+
+<span class="heimu">
+请...请我吃饭也没有用哦
+</span>
+
+<br/>
+
+<span class="heimu">
+咦！！要走了吗……才，才不是想挽留你呢！
+</span>
+
+<br/>
+
+<span title="你知道的太多了" class="heimu">
+一位不愿意透露姓名的人士路过，在这里放下了一条
+   <a href="https://workdrive.zohopublic.com.cn/external/280847181e0bb3bbeea2f9cb062831cdf763ca1d9ed1456fe7e3a641bdf0851d/download" title="队列练兵手册">
+      链接
+   </a>
+</span>
+
 
 ---
 

@@ -1,7 +1,7 @@
 import os
 import dirTools
 import mkRST
-header_all = "Welcome to PPUSC_Wiki's documentation!"
+header_all = "Welcome to PPUSC_Wiki!"
 
 
 class Pointer(object):
