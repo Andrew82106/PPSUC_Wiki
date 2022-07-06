@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'PPUSC_Wiki'
+project = 'PPSUC_Wiki'
 copyright = '2022, anonymous'
 author = 'anonymous'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1 alpha'
+release = '0.1 beta'
 
 
 # -- General configuration ---------------------------------------------------
