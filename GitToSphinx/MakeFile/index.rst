@@ -1,4 +1,4 @@
-Welcome to PPUSC_Wiki!
+Welcome to PPSUC_Wiki!
 ======================================
 
 .. toctree::
