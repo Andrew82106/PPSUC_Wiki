@@ -5,8 +5,10 @@ Welcome to PPSUC_Wiki!
    :maxdepth: 1
    :caption: PPSUC_Wiki:
 
-   入校必读/index
-   资源仓库/index
-   项目介绍/index
+   README
+   大二上/index
+   大一上/index
+   大一下/index
+   教材/index
 
 
