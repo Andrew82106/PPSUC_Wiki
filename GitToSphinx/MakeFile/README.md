@@ -8,8 +8,6 @@
 <a href="https://github.com/ChrisWhite1024/PPSUC-NSLES/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ChrisWhite1024/PPSUC-NSLES"></a>
 </p>
 
-忠诚尚法 创新尖兵 科技强警 信网风行
-
 ## 前言
 很高兴屏幕前的你能看到这个项目！这是 [@ChrisWhite1024](https://github.com/ChrisWhite1024) 创建的项目，目标是收录PPSUC网安的各种课程攻略。作为一个有政治背景的高等院校，PPSUC在外界看来多少有些神秘，以致本人咨询了很多师兄师姐也不知道来这个学校除了当阿Sir之外能学到什么，2021年的改革对教师与学生都是一次全新的尝试，偶然间看到[清华大学计算机系课程攻略](https://github.com/ChrisWhite1024/REKCARC-TSC-UHT)，对我启发很大，也是该项目诞生的契机。感谢 [@Andrew82106](https://github.com/Andrew82106) 与 [@PPSUC-21Q039](https://github.com/PPSUC-21Q039) 对项目的支持与维护，没有你们的帮助这个项目不会如此充实与丰富。
 
@@ -62,7 +60,7 @@
 
 ## 安全性与许可协议
 
-本仓库不会存储**任何**涉密文件，存储的文件为普通高等学校公有基础课/专业课/通识课课程学习资料，不违反相关保密工作要求。
+本仓库不会存储**任何**涉密文件，存储的文件为普通高等学校公有基础课/专业课/通识课课程学习资料，不会违反相关保密工作要求。
 
 由贡献者编写部分的许可如下：
 

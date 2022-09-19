@@ -1,4 +1,5 @@
 import os
+from re import S
 import dirTools
 import mkRST
 header_all = "Welcome to PPSUC_Wiki!"
@@ -82,15 +83,34 @@ def WorkDir(pointer: Pointer):  # 生成当前pointer指向文件夹对应的文
     ENGINE.writeRST(markdown_list, folder_list, none_folder_dict, xx, layer)
 
 
-def Work(workRoute, dirRoute):  # 生成指定文件夹的对应的文件夹
+def Work(workRoute, dirRoute):  # 生成指定文件夹的对应的文件夹 workRoute:资源文件夹  dirRoute:工作文件夹
+    if os.path.exists(workRoute):
+        dirTools.ToolBags.removedir(workRoute)
+    os.mkdir(workRoute)
     WorkDir(Pointer(workRoute, dirRoute))
 
 
+def copyTomake(srcRoute, MakeFileRoute):
+    sonFileList=dirTools.ToolBags.ls(srcRoute)
+    for i in sonFileList:
+        dirTools.ToolBags.copyfile(srcRoute+"/"+i, MakeFileRoute)
+
+
+def clean_source(sourcePath):
+    whiteList = ['index.rst', '.DS_Store', '_templates', 'conf.py', '_static']
+    sons = dirTools.ToolBags.ls(sourcePath)
+    for i in sons:
+        if i in whiteList:
+            continue
+        dirTools.ToolBags.removedir(sourcePath + "/" + i)
+
+
 if __name__ == '__main__':
-    path = '//Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/MakeFile'
-    if os.path.exists(path):
-        print("已存在文件，请手动删除")
-        exit(0)
-    os.mkdir(path)
+    path = '/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/MakeFile'
     dirPath = '/Users/andrewlee/Desktop/PPSUC_Wiki/PPSUC-NSLES'
-    Work(path, dirPath)
+    sourcePath = '/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/source'
+    makeFileRoute = '//Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/MakeFile'
+    # Work(path, dirPath)
+    copyTomake(makeFileRoute, sourcePath)
+    clean_source(sourcePath)
+    copyTomake(makeFileRoute, sourcePath)

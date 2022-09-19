@@ -15,6 +15,7 @@
 * `2-4 牛顿定律的应用举例.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/2-4%20牛顿定律的应用举例.ppt>`_
 * `4-4 力矩的功 刚体绕定轴转动的动能定理.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/4-4%20力矩的功%20刚体绕定轴转动的动能定理.ppt>`_
 * `1-1 质点运动的描述.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/1-1%20质点运动的描述.ppt>`_
+* `6-1 静电场中的导体.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/6-1%20静电场中的导体.ppt>`_
 * `5-8 电场强度与电势梯度.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/5-8%20电场强度与电势梯度.ppt>`_
 * `3-1 质点和质点系的动量定理.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/3-1%20质点和质点系的动量定理.ppt>`_
 * `5-3 电场强度.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/5-3%20电场强度.ppt>`_
@@ -25,6 +26,7 @@
 * `7-0 教学基本要求.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-0%20教学基本要求.ppt>`_
 * `7-3磁场 磁感强度.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-3磁场%20磁感强度.ppt>`_
 * `4-3 角动量 角动量守恒定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/4-3%20角动量%20角动量守恒定律.ppt>`_
+* `6-5 静电场的能量和能量密度.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/6-5%20静电场的能量和能量密度.ppt>`_
 * `5-2 库仑定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/5-2%20库仑定律.ppt>`_
 * `2-0 教学基本要求.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/2-0%20教学基本要求.ppt>`_
 * `5-1 电荷的量子化 电荷守恒定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/5-1%20电荷的量子化%20电荷守恒定律.ppt>`_
@@ -43,11 +45,13 @@
 * `7-4 毕奥-萨伐尔定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-4%20毕奥-萨伐尔定律.ppt>`_
 * `7-1恒定电流.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-1恒定电流.ppt>`_
 * `3-8 能量守恒定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/3-8%20能量守恒定律.ppt>`_
+* `6-4 电容 电容器.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/6-4%20电容%20电容器.ppt>`_
 * `7-2电源 电动势.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-2电源%20电动势.ppt>`_
 * `物理实验实验绪论.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/物理实验实验绪论.ppt>`_
 * `2-1 牛顿定律.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/2-1%20牛顿定律.ppt>`_
 * `4-1 刚体的定轴转动.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/4-1%20刚体的定轴转动.ppt>`_
 * `5-6 静电场的环路定理 电势能.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/5-6%20静电场的环路定理%20电势能.ppt>`_
 * `7-5 磁通量 磁场的高斯定理.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/7-5%20磁通量%20磁场的高斯定理.ppt>`_
+* `6-2 静电场中的电介质.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/6-2%20静电场中的电介质.ppt>`_
 * `1-3 相对运动.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/1-3%20相对运动.ppt>`_
 * `1-2 圆周运动.ppt [GitHub Link] <https://github.com/Andrew82106/PPSUC-NSLES/blob/22-05-31/大一下/大学物理1/课件/1-2%20圆周运动.ppt>`_

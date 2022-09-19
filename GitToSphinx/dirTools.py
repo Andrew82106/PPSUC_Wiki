@@ -3,6 +3,9 @@ import shutil
 
 
 class ToolBags:
+    @staticmethod
+    def removedir(path: str):  # 删除文件夹及其子文件夹
+        shutil.rmtree(path)
 
     @staticmethod
     def addRst(Path: str, FileName: str):  # 新建一个rst文件
@@ -40,20 +43,22 @@ class ToolBags:
         return os.path.isdir(Route)
 
     @staticmethod
-    def copyfile(srcfile, dstpath):  # 复制函数
+    def copyfile(srcfile, dstpath):  # 复制函数 srcfile源文件(必须是文件) dstpath目标目录
         # srcfile 需要复制、移动的文件
         # dstpath 目的地址
-        if not os.path.isfile(srcfile):
+        if not (os.path.isdir(srcfile) or os.path.isfile(srcfile)):
             print("%s not exist!" % (srcfile))
         else:
             fpath, fname = os.path.split(srcfile)  # 分离文件名和路径
             if not os.path.exists(dstpath):
                 os.makedirs(dstpath)  # 创建路径
-            shutil.copy(srcfile, dstpath + fname)  # 复制文件
-            print("copy %s -> %s" % (srcfile, dstpath + fname))
+            shutil.copy(srcfile, dstpath + "/" + fname)  # 复制文件
+            print("copy %s -> %s" % (srcfile, dstpath + "/" + fname)) 
 
 
 if __name__ == '__main__':
     a = ToolBags
+    # a.removedir("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/MakeFile")
     # print(a.ls("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx"))
     # print(a.is_dir("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/mkRST.py"))
+    a.copyfile("/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/.gitignore","/Users/andrewlee/Desktop/PPSUC_WIKI_WEB/GitToSphinx/MakeFile")
